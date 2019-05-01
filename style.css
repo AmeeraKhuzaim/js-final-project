@@ -1,0 +1,48 @@
+header
+{
+    border: 1px solid powderblue;
+    /* margin: 50px; */
+    margin: 0;
+    padding: 0;
+    font-size: 50px;
+}
+h5 
+{
+    border: 1px solid powderblue;
+}
+body 
+{
+    background-color:rgb(214, 221, 235);
+    text-align: center;
+    font-size: 20px;
+    font-family: "montserrat";
+}
+/* p    {color: red;} */
+
+.container 
+{
+    text-align: center;
+    margin-top: 360px;
+}
+button 
+{
+    border: 1px solid #3498db;
+    background: none;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: "montserrat";
+    cursor: pointer;
+    margin: 10px;
+    transition: 0.8s;
+}
+button:hover
+{
+    color:#3498db;
+}
+img
+{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
